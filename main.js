@@ -18,8 +18,196 @@ function inArr(arr, item) {
 let partsCont = document.querySelector(".cont");
 let langs = document.querySelector(".langs");
 
-let langsText = ["🇬🇧 EN", "🇫🇷 FR", "🇪🇸 ES", "🇩🇪 DE", "🇯🇵 JP", "🇮🇹 IT"];
+let langsText = ["🇸🇦 AR", "🇬🇧 EN", "🇫🇷 FR", "🇪🇸 ES", "🇩🇪 DE", "🇯🇵 JP", "🇮🇹 IT"];
 let langsContent = [
+// عربي
+`
+<style>
+    body {
+        font-family: Tajawal;
+    }
+
+    .part {
+        direction: rtl;
+    }
+</style>
+
+<h1 class="title">الحقيقة</h1>
+
+<div class="part">
+    أهلا بكم, أتمنى أن تقرأ هذا المقال للنهاية لأنه مهم جدا, هيا بنا.
+
+    <br><br>
+    <h1>الفقرة الأولى: لابد من إله</h1>
+    دعونا نتفق أن كل شيء يحدث له سبب. مثلا إذا ضربك شخص ستشعر بالألم. بناءًا عليه فإننا نستنتج أن كل مصنوع له صانع, كل آلة لها صانع, كل بيت له صانع, والكون له خالق. لأن أي شيء يحث له سبب.<br><br>
+    
+    <img src="./universe.png">
+    
+    وإذا كنت تعتقد أن الكون خُلق بالإنفجار العظيم فأنت مخطئ. لأنه عندما تقول أن بداية الكون كان نقطة صغيرة جدا فأنت لم تجب على السؤال "من خلق تلك النقطة؟" والإجابة بالطبع الإله. والإله يجب أن يكون كاملا ليستطيع أن يخلق الكون, ويجب أن يكون لا شبيه له لأنه هو من خلق الإبداع والتنوع في الكون ويجب عليك عبادته لأنه هو من خلقك.<br><br>
+    
+    وإذا كنت تعتقد أن الكون خُلق بالصدفة فأنت مخطى لأن... (يتبع)
+</div>
+
+<div class="part">
+    <h1>Part 2: Evolution</h1>
+    First, I want you to know that the universe is finely tuned, and chance cannot create this tuned universe. Second, let us know the four pillars of evolution theory.<br><br>
+
+    <h3>Theory pillars</h3>
+    1. Living organisms were born in some way from inanimate objects.<br>
+    2. Nature endows organisms with new characteristics that can transform them from one species to another.<br>
+    3. Acquired traits are inherited, and nature selects cumulatively up to higher beings.<br>
+    4. Nature installs complex vital systems of successive simple changes.<br><br>
+
+    The conclusion is that living beings are "evolved" without the intent or will of a chosen or willing creator who knows what he is doing.<br><br>
+
+    Let us make sure of these pillars.<br><br>
+
+    <h3>Make sure</h3>
+    1. Living organisms were born in some way from inanimate objects.<br>
+    This is a myth that fell through experiments, the most famous of which was Francesco Redi's experiment, two centuries before Darwin. He proved that the organisms that were believed to have been self-generated from inanimate objects such as leftovers came from outside the material, food with polluted air.<br><br>
+
+    The truth is that self-generation is originally illogical. It is impossible to imagine a living being that arises automatically from inanimate objects. But they insisted on trying! They tried, and the superstition was destroyed by empirical science and the mind.<br><br>
+
+
+    2. Nature endows the organism with new characteristics:<br>
+    This is also a myth that fell with the discoveries of Gregor Mendel, who proved - years after Darwin - that the hereditary characteristics of children will not deviate from what was originally in the parents. It also fell with the discoveries of epigenetics, which showed that external and environmental factors can change the way genetic material is read in an organism to activate a trait or to extinguish a trait that was activated, but does not add genetic material that was not originally present.<br><br>
+
+
+    3. Acquired traits are inherited, and nature selects cumulatively up to higher beings:<br>
+    As you guess, this is also a fallen myth. The muscles of the blacksmith and the carpenter, for example, are not inherited by their children. However, Darwin's followers insisted on trying. Weismann kept cutting the tails of 19 generations of rats, only to be surprised, after a long toil, by the birth of their offspring with tails again. This means that the acquired trait, which is the severed tail, was not passed on to the children.<br><br>
+
+    What is left of Darwin's theory then?<br><br>
+
+    4. Nature installs complex vital systems of successive simple changes.<br>
+    Until you understand what Darwin's natural selection means? Darwin's vast imagination brought him the idea that nature, use and neglect; Ancient organisms produced simple bodily structures that could have served the organism in something, so natural selection preserved them. Who did not know that the accumulation of these structures would produce a complete and integrated organ such as a wing for a bird or an eye for an animal?<br><br>
+
+    <h2>Story</h2>
+
+    To understand Darwin's logic, imagine a land full of junk. Large numbers of blind people pass through it, and each of them picks up a piece of junk at random. Then, they enter a large building whose door is closed after each entry.<br><br>
+
+    <img src="./junk.png">
+
+    Millions of years passed, and the blind picked up the scraps, died, and were buried under the ground of the building.<br>
+    One day, you opened the gate of the building, and a giant Boeing plane, driven by a blind man, rushed out of the gate and flew into the sky!<br>
+
+    <img src="./air plane.png">
+
+    You wondered: How did the blind man build the plane?! It was said to you: He did not intend to make it! But what happened with the blind before him is that whoever picks up a useful piece of scrap for him; he stood firm and bequeathed it to his successor! Some of them picked up a cloth to protect them from the cold; another picked a flat iron to shade them from the sun, and a third picked up a plane steering wheel with which they stirred their food while cooking, and a fourth picked a bottle that they used as a shield in their war against their blind enemies!<br><br>
+
+    This continued in successive times, and they bequeathed their pieces to those who succeeded them, and the pieces were installed unintentionally, nor by an active action until this great plane that I saw was formed from it!<br><br>
+
+    So, beware of the delusion that someone intended for an airplane to form or fly!<br><br>
+    By the same reasoning, Darwin considered that natural selection has blindly patched up the structures of organisms. For example, the wings of birds to help them fly are a "pseudopurpose". It means an imaginary goal, not a real one! And the eye is an imaginary target because there is no chosen willful doer who intended for the eye to see, or for the wing to flutter. Rather, all of this came with accumulations of blind coincidences!<br>
+
+    This is the joke of blind natural selection that Darwin came up with, and it is - in addition to its absurdity for every healthy mind - that scientific discoveries have proven their impossibility with the existence of irreducible complexity in all the details of organisms and their relationships. That is, the structures and members of living organisms are extremely complex and integrated so that they can only exist with the availability of their parts at one time. Otherwise, they will not perform their function. Thus, they are not amenable to the idea of gradual formation at all, even at the level of the smallest living unit.<br><br>
+
+    Darwin did not see the cell under the microscope in his days except as a simple smear!<br><br>
+
+    Natural selection as portrayed by Darwin is also a myth.<br><br>
+
+    Based on these baseless superstitions of reason, sense, and experience, Darwin built the most absurd and stupid idea in history. All that we see of judgment and mastery in this creation came by chance without intention and does not need knowledge or wisdom!<br><br>
+
+    After seeing the invalidity of this theory, you must trust that the universe cannot be created by chance and also trust that "there must be a God".<br><br>
+    <a target="_blank" href="https://www.youtube.com/watch?v=x0jw56ylJOE&list=PL56IcDjrf3YJr__TEOJ2UOv3jCzht1_yc&index=24">Learn More (evolution) [Video - En Subtitles].</a><br>
+    <a target="_blank" href="https://www.youtube.com/playlist?list=PL56IcDjrf3YJr__TEOJ2UOv3jCzht1_yc">Learn More [Playlist - En Subtitles] (Start from first video or video number 24 in Playlist to the end).</a>
+
+</div>
+
+<div class="part">
+    <h1>الفقرة الثالثة: إيجاد الدين الصحيح</h1>
+    دعونا نتفق أن أي دين اخترعه البشر باطل لأن الدين يجب أن يكون من عند الخالق, والدين الصحيح يجب أن لا يحتوي على أي تناقضات أو أي أخطاء. لدينا الآن 3 أديان سماوية: اليهودية, والمسيحية, والإسلام.<br><br>
+
+    🔷 أولا: اليهودية<br>
+    لكي تصبح يهوديًّا يجب عليك أن تكون من عائلة يهودية لأن تلك العائلات طبقًا لليهودية هم شعب الإله المختار, وبالطبع هذا الدين باطل لأنه ليس من العدل أن تريد أن تعبد خالقك ثم لا تستطيع بل وتستحق العذاب لأنك فقط لست من عائلة يهودية.<br><br>
+
+    🔷 ثانيًا: المسيحية<br>
+    <ul>
+        <li>في المسيحية يجب أن تعتقد أن الإله ثلاثة آلهة: أب وإبن وروح قدس. وهذه الفكرة صُنعت بواسطة بعض القساوسة, ولكن كيف يكون هناك ثلاثة آلهة؟ إذا كان الأب والإبن والروح القدس آلهة إذن يمكنهم جميعًا التحكم في الكون, ولكن الإبن إنسان والإنسان لا يستطيع التحكم في الكون</li><br>
+        <li>في المسيحية الكتاب المقدس هو الإنجيل, والإنجيل تم تحريفه بواسطة "بشر". وأريدك أن تقرأ عن "نُسَخ" الإنجيل وتناقضات تلك النُّسَخ مع بعضها مع أن النص العبري للإنجيل واحد. مثلًا عمر تولي داوود الحكم هل هو 1 أم 30 أم 40 (مع أن النص العبري واحد إلا أن الأناجيل مختلفة في تلك الإجابة)</li><br>
+        <li>إذا كان الأب يريد أن يموت شخص الساعة 4, والإبن يريد أن يموت هذا الشخص الساعة 5, فمتى سيموت ذلك الشخص? إذا قلت سيموت الساعة 4 إذن فالإبن ليس إلهًا وإذا قلت سيموت الساعة 5 فالأب ليس إلهًا لأن الإله يستطيع أن يتحكم في الكون.</li><br>
+        <li>في المسيحية هناك انتقاص من الإله, مثلا هناك في الإنجيل قصة أن الإله صارع يعقوب, وكاد داوود أن يقتله. ولكننا اتفقنا أن الإله يجب أن يكون كامل, فالإله هو الذي خلق الكون كله فكيف يكون داوود أقوى منه.</li><br><br>
+        
+        <li>السبب الخامس هو:</li><br>
+        <ul>
+            <li>في المسيحية الإله أنزل الإبن ليُصلَب ليكفّر خطيئة آدم, ولكن من فعل الخطيئة, الإبن أم آدم؟ ماهو ذنب الإبن إذا كان من فعل الخطيئة هو آدم</li><br>
+            <li>في المسيحية الإبن نزل ليُصلَب ليكفّر الخطيئة عن البشر بعده ولكن الذين ماتوا قبل الإبن ماتوا على الخطيئة! ولكن ما ذنب من مات قبل الإبن ليموت على الخطيئة؟ ولماذا لم ينزل الإبن قبل ذلك ليكفّر الخطيئة عن أشخاص أكثر؟</li><br>
+            <li>أين قال الإبن في الإنجيل "أنا الإله"؟ أين قال اعبدوني؟ أين قال "أنا الإله المتجسّد"؟ أين تكلم عن الخطيئة؟ أين قال "أنا إبن الإله"؟ أين قال "أنا الإله الكلمة"؟ وأين قال "أنا الإله الأقنوم (الشخص) الثاني؟"</li>
+        </ul>
+    </ul>
+    
+    <br>
+
+    <a target="_blank" href="https://www.youtube.com/watch?v=M71t_GmkJ1g">المزيد عن (المسيحية) [مقطع].</a><br>
+    <a target="_blank" href="https://www.youtube.com/watch?v=7iFCMs8jE8k">المزيد عن (الثالوث) [مقطع].</a><br>
+    
+    <br><br>
+
+    لدينا الآن الدين الأخير وهو الإسلام. ولكن قبل أن تكمل لا تصدق كلام القساوسة والإعلام والأفلام عن الإسلام, إن مهمتهم هي تشويه صورة الإسلام, لا تصدقهم وابحث بنفسك عن الحقيقة, وهيّا بنا. (يتبع)
+</div>
+
+<div class="part">
+    <h1>Part 4: Are You Really Know Islam?</h1>
+    Islam is a religion that commands you to worship Allah, the one God, with no partner and obey his prophet Mohammed - Peace be upon him -.<br>
+    To be a Muslim, you say the two testimonies:<br>
+    أشهد أن لا إله إلا الله وأشهد أن محمدا عبده ورسوله ('ashhad 'an la 'iilah 'iilaa allah wa'ashhad 'ana muhamadan eabduh warasuluhu).<br>
+    which means: "I testify that there is no god but Allah, and I testify that Mohammed is His Prophet and Messenger."<br><br>
+
+    <a target="_blank" href="https://www.islam-guide.com/ch3-8.htm">Learn More about Prophet Mohammed - peace be upon him - [article]</a><br>
+    <a target="_blank" href="https://www.youtube.com/watch?v=_JbKdKS9Yyg">Learn More about Prophet Mohammed - peace be upon him - [Video - En Subtitles]</a><br><br>
+
+    Islam is the religion that agrees with human nature. It's the religion that calls for worshipping the one God who is Allah.<br><br>
+
+    Allah is the God of all the universe. Allah is perfect for Him alone, and there is no similarity to Him, and no one is similar to Him. You must worship Him alone.<br><br>
+
+    Now let us know the pillars of Islam that make you Muslim:<br>
+    1. Two testimonies<br>
+    2. The five Prayers<br>
+    3. Paying Zakat<br>
+    4. Fasting in Ramadan<br>
+    5. Hajj<br><br>
+
+    Fourth is Fasting in Ramadan. Ramadan is a Hijri Month when you must stop eating and drinking from Fajr to Maghreb and where there is a night called Night of Al-Qadr. Whoever wins it is better for him than a thousand months.<br>
+
+    <h3>Aqida (Muslim believe)</h3>
+    The Muslim believes in Allah the Lord of the heavens and the earth. Master of everything in existence. The Lord of Ibrahim. Messengers and revelations have been sent to us from the time of our father Adam to the last of the prophets, Muhammad, peace and blessings be upon him. He came with the final revelation. The word “رب العالمين” means Lord of the Worlds. “All that is in the heavens and all that is on earth glorifies Allah. “And He is the Mighty, the Wise” 59:1<br><br>
+
+    Even if people do not believe in Allah and worship someone else, that does not change the fact that they are His creation and that He is the one who can guide them to the straight path (Islam) or condemn them to disbelieve in Him. Revelation after showing them that this is the truth. This is the Muslim belief.<br><br>
+
+    
+    
+    <h3>Sharia (laws)</h3>
+    A Muslim does not use the “benign” Sharia law in Islamic countries. Rather, but use Sharia law. Sharia is the definition of the heavenly laws that Allah has commanded us to follow such as prayer, fasting, charity, good manners, wearing the hijab, and building good relationships with the people you live with, neighbors and the elderly, are all part of Sharia. Sharia also covers governance, politics, the judicial system, law enforcement, and many other aspects of life. Islam is the way of life and it covers all the necessary matters of life so that we can live and govern ourselves to the satisfaction of Allah.<br><br>
+    
+    in Islam you make the rules of Allah control you in your life as you mustn't do anything forbidden or taboo, and if you think it's not freedom, so for example if your son went to market and want to eat all chocolates in market you will stop him right? then do you want him without freedom, or you know that if he do that he will hurt himself?<br><br>
+
+    Allah created the universe and He know which things hurt us, and Allah created the world as a place of affliction and fatigue, not a place of reward.<br><br>
+
+    <h3>Pray</h3>
+    Prayers change for each country due to seasonal changes, but if you live in a region like the Middle East, North Africa, and East Africa, daily prayers are set at specific times and never change. It's more about the time of day. For example: Fajr prayer before sunrise, around the time of dawn. It is not permissible to pray it as soon as the sun rises, then there is noon, afternoon, after sunset, then evening. If the time of sunrise and sunset changes, the time of prayer changes.<br><br>
+
+    <h3>Qur'an</h3>
+    In Islam holy book is Quran which is words of Allah, The Qur’an was revealed in the Arabic language in an Arab country when the Arabs were most eloquent, challenging all Arabs in its eloquence and its beautiful words, And So far, nothing like The Qur'an has been written in its eloquence and Surah is a part from Qur'an.<br><br>
+    
+    <a target="_blank" href="https://www.youtube.com/watch?v=TGuZMLhyRXg">Learn More (Someone made Surah like Qur'an?!)</a><br><br>
+
+    Quran is not misrepresented and you can make sure of it by search about oldest Quran, it no different between it and latest Quran (except the font), and what increases your certainty is .. The Qur'an is an audio book before it is a written book and there is such a thing as permission to read the Holy Quran which is a continuous chain from the person who is proficient in reading the Qur’an to the Prophet Mohammed - Peace be upon him -<br><br>
+
+    The Qur'an can be translated and translated into any other language in the world for people to understand what they read but Allah sent down the revelation in the Arabic language so the only Arabic language can be considered the “revelation”. Others will simply be a translation of the Qur'an. 80% of Muslims are non-Arabs but are still able to recite and understand the Qur’an and recite the Qur’an in prayer daily. However, if you want to get the full experience, you have to learn Arabic because most Islamic sources are in Arabic.<br><br>
+
+    <a target="_blank" href="https://www.youtube.com/watch?v=mJyNYxPEiMw">Learn Arabic and Qur'an (Roadmap Video)</a><br>
+    <a target="_blank" href="https://arabic101.org/wp-content/uploads/woocommerce_uploads/2023/03/quran-quest_2.pdf">Learn Arabic and Qur'an (Roadmap Pdf)</a><br>
+
+    <h3>Zakat</h3>
+    There is no tax imposed by the government at all in Islam. There should be no taxes because it is an un-Islamic concept. If a non-Muslim wishes to live under an Islamic government, he or she pays the jizya, which is a tax for non-Muslims to give them safety and security, as well as access to the same services and privileges as Muslims. As for the Muslim, he does something obligatory in Islam called zakat. Muslims are required to pay 2.5% of our wealth to the poor annually, while the jizya is much less than zakat. This makes society better and compensates for the lack of resources and privileges between the poor and the rich while lifting each other up. It is not permissible for a Muslim to take zakat from other Muslims unless he is in need of it. Therefore, there are times in history when Islamic rulers did not have poor people to feed and the population complained about who was giving alms.<br>
+</div>
+
+<div class="part">
+    قريبًا...
+</div>
+
+`,
+
+
 // english
 `
 <h1 class="title">The Truth</h1>
