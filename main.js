@@ -49,68 +49,65 @@ let langsContent = [
 </div>
 
 <div class="part">
-    <h1>Part 2: Evolution</h1>
-    First, I want you to know that the universe is finely tuned, and chance cannot create this tuned universe. Second, let us know the four pillars of evolution theory.<br><br>
+    <h1>الفقرة الثانية: نظرية التطور</h1>
+    أولاً، أريدك أن تعلم أن الكون مضبوط بدقة، وأن الصدفة لا يمكنها أن تخلق هذا الكون المضبوط. ثانياً، دعنا نتعرف على الركائز لنظرية التطور.<br><br>
 
-    <h3>Theory pillars</h3>
-    1. Living organisms were born in some way from inanimate objects.<br>
-    2. Nature endows organisms with new characteristics that can transform them from one species to another.<br>
-    3. Acquired traits are inherited, and nature selects cumulatively up to higher beings.<br>
-    4. Nature installs complex vital systems of successive simple changes.<br><br>
+    <h3>ركائز النظرية</h3>
+    1. ولدت الكائنات الحية بطريقة ما من جمادات.<br>
+    2. تمنح الطبيعة الكائنات الحية خصائص جديدة يمكنها تحويلها من نوع إلى آخر.<br>
+    3. الصفات المكتسبة موروثة، والطبيعة تنتقي بشكل تراكمي كائنات أعلى.<br>
+    4. تقوم الطبيعة بتثبيت أنظمة حيوية معقدة من التغيرات البسيطة المتعاقبة.<br><br>
 
-    The conclusion is that living beings are "evolved" without the intent or will of a chosen or willing creator who knows what he is doing.<br><br>
+    والإستنتاج هو أن الكائنات الحية "تتطور" دون نية أو إرادة خالق مختار أو راغب يعرف ما يفعل.<br><br>
 
-    Let us make sure of these pillars.<br><br>
+    <h3>إعادة نظر</h3>
+    1. ولدت الكائنات الحية بطريقة ما من جمادات:<br>
+    وهذه أسطورة سقطت من خلال التجارب، وأشهرها تجربة فرانشيسكو ريدي، قبل داروين بقرنين من الزمن. وأثبت أن الكائنات الحية التي يُعتقد أنها نشأت ذاتيًا من جمادات مثل بقايا الطعام جاءت من خارج المادة، وطعامًا بهواء ملوث.<br><br>
 
-    <h3>Make sure</h3>
-    1. Living organisms were born in some way from inanimate objects.<br>
-    This is a myth that fell through experiments, the most famous of which was Francesco Redi's experiment, two centuries before Darwin. He proved that the organisms that were believed to have been self-generated from inanimate objects such as leftovers came from outside the material, food with polluted air.<br><br>
-
-    The truth is that self-generation is originally illogical. It is impossible to imagine a living being that arises automatically from inanimate objects. But they insisted on trying! They tried, and the superstition was destroyed by empirical science and the mind.<br><br>
+    والحقيقة هي أن التوليد الذاتي أمر غير منطقي في الأصل. ومن المستحيل أن نتصور كائنا حيا ينشأ تلقائيا من الجمادات. لكنهم أصروا على المحاولة! حاولوا، وتم تدمير الخرافة بالعلم التجريبي والعقل.<br><br>
 
 
-    2. Nature endows the organism with new characteristics:<br>
-    This is also a myth that fell with the discoveries of Gregor Mendel, who proved - years after Darwin - that the hereditary characteristics of children will not deviate from what was originally in the parents. It also fell with the discoveries of epigenetics, which showed that external and environmental factors can change the way genetic material is read in an organism to activate a trait or to extinguish a trait that was activated, but does not add genetic material that was not originally present.<br><br>
+    2. تمنح الطبيعة الكائن الحي خصائص جديدة:<br>
+    وهذه أيضًا أسطورة سقطت مع اكتشافات جريجور مندل، الذي أثبت - بعد داروين بسنوات - أن الخصائص الوراثية للأطفال لن تحيد عما كان في الأصل لدى الوالدين. كما سقط مع اكتشافات علم الوراثة اللاجينية، التي أظهرت أن العوامل الخارجية والبيئية يمكن أن تغير طريقة قراءة المادة الوراثية في الكائن الحي لتنشيط سمة أو لإطفاء سمة تم تنشيطها، ولكنها لا تضيف مادة وراثية لم تكن في الأصل.<br><br>
 
 
-    3. Acquired traits are inherited, and nature selects cumulatively up to higher beings:<br>
-    As you guess, this is also a fallen myth. The muscles of the blacksmith and the carpenter, for example, are not inherited by their children. However, Darwin's followers insisted on trying. Weismann kept cutting the tails of 19 generations of rats, only to be surprised, after a long toil, by the birth of their offspring with tails again. This means that the acquired trait, which is the severed tail, was not passed on to the children.<br><br>
+    3. الصفات المكتسبة موروثة، والطبيعة تنتقي بشكل تراكمي كائنات أعلى:<br>
+    كما ظننت أنت، فهذه أيضًا أسطورة ساقطة. فعضلات الحداد والنجار مثلا لا يرثها أولادهما. ومع ذلك، أصر أتباع داروين على المحاولة. وواصل وايزمان قص ذيول 19 جيلاً من الفئران، ليفاجأ بعد عناء طويل بولادة نسلهم بذيول مرة أخرى. وهذا يعني أن الصفة المكتسبة وهي الذيل المقطوع لم تنتقل إلى الأطفال.<br><br>
 
-    What is left of Darwin's theory then?<br><br>
+    فماذا بقي من نظرية داروين إذن؟<br><br>
 
-    4. Nature installs complex vital systems of successive simple changes.<br>
-    Until you understand what Darwin's natural selection means? Darwin's vast imagination brought him the idea that nature, use and neglect; Ancient organisms produced simple bodily structures that could have served the organism in something, so natural selection preserved them. Who did not know that the accumulation of these structures would produce a complete and integrated organ such as a wing for a bird or an eye for an animal?<br><br>
+    4. تقوم الطبيعة بتثبيت أنظمة حيوية معقدة من التغيرات البسيطة المتعاقبة:<br>
+    حتى تفهم ماذا يعني الانتقاء الطبيعي لداروين؟ خيال داروين الواسع أوصله إلى فكرة أن الطبيعة والاستخدام والإهمال؛ أنتجت الكائنات الحية القديمة هياكل جسدية بسيطة يمكن أن تخدم الكائن الحي في شيء ما، لذلك حافظ عليها الانتقاء الطبيعي. ومن لم يكن يعلم أن تراكم هذه التركيبات ينتج عنه عضو كامل ومتكامل مثل جناح الطير أو عين الحيوان؟<br><br>
 
-    <h2>Story</h2>
+    <h2>قصة</h2>
 
-    To understand Darwin's logic, imagine a land full of junk. Large numbers of blind people pass through it, and each of them picks up a piece of junk at random. Then, they enter a large building whose door is closed after each entry.<br><br>
+    لفهم منطق داروين، تخيل أرضًا مليئة بالخردة. ويمر عبرها عدد كبير من المكفوفين، وكل منهم يلتقط قطعة من القمامة بشكل عشوائي. ثم يدخلون إلى مبنى كبير يُغلق بابه بعد كل دخول.<br><br>
 
     <img src="./junk.png">
 
-    Millions of years passed, and the blind picked up the scraps, died, and were buried under the ground of the building.<br>
-    One day, you opened the gate of the building, and a giant Boeing plane, driven by a blind man, rushed out of the gate and flew into the sky!<br>
+    مرت ملايين السنين، وجمع الأعمى بقاياه، ومات، ودُفن تحت أرض المبنى.<br>
+    وفي أحد الأيام، فتحت بوابة المبنى، فاندفعت طائرة بوينج عملاقة يقودها رجل أعمى من البوابة وحلقت في السماء!<br>
 
     <img src="./air plane.png">
 
-    You wondered: How did the blind man build the plane?! It was said to you: He did not intend to make it! But what happened with the blind before him is that whoever picks up a useful piece of scrap for him; he stood firm and bequeathed it to his successor! Some of them picked up a cloth to protect them from the cold; another picked a flat iron to shade them from the sun, and a third picked up a plane steering wheel with which they stirred their food while cooking, and a fourth picked a bottle that they used as a shield in their war against their blind enemies!<br><br>
+    تساءلت أنت: كيف صنع الأعمى الطائرة؟! قيل لك: لم يقصد أن يفعل ذلك! ولكن ما حدث مع الأعمى قبله هو أن من يلتقط له قطعة خردة مفيدة؛ أورثها لمن بعده, ومنهم من التقط قطعة قماش تقيهم من البرد؛ والتقط آخر مكواة مسطحة لتظلهم من الشمس، والتقط ثالث عجلة قيادة طائرة يحركون بها طعامهم أثناء الطهي، والتقط رابع زجاجة استخدموها كدرع في حربهم ضد أعدائهم من العميان! <br><br>
 
-    This continued in successive times, and they bequeathed their pieces to those who succeeded them, and the pieces were installed unintentionally, nor by an active action until this great plane that I saw was formed from it!<br><br>
+    واستمر ذلك في مرات متتالية، وأورثوا قطعهم لمن خلفهم، وتم تركيب القطع عن غير قصد، ولا بفعل فاعل حتى تشكلت منها هذه الطائرة العظيمة التي رأيتها!<br><br>
 
-    So, beware of the delusion that someone intended for an airplane to form or fly!<br><br>
-    By the same reasoning, Darwin considered that natural selection has blindly patched up the structures of organisms. For example, the wings of birds to help them fly are a "pseudopurpose". It means an imaginary goal, not a real one! And the eye is an imaginary target because there is no chosen willful doer who intended for the eye to see, or for the wing to flutter. Rather, all of this came with accumulations of blind coincidences!<br>
+    لذا، احذر من التوهم بأن هناك من ينوي أن تتشكل طائرة أو تطير!<br><br>
+    وبنفس المنطق، اعتبر داروين أن الانتقاء الطبيعي قد صحح بشكل أعمى هياكل الكائنات الحية. على سبيل المثال، تعتبر أجنحة الطيور التي تساعدها على الطيران بمثابة "غرض زائف". يعني هدف خيالي وليس حقيقي! والعين هدف وهمي لأنه ليس هناك فاعل مختار قصد أن تبصر العين، أو أن يرفرف الجناح. بل كل ذلك جاء مع تراكمات من المصادفات العمياء!<br>
 
-    This is the joke of blind natural selection that Darwin came up with, and it is - in addition to its absurdity for every healthy mind - that scientific discoveries have proven their impossibility with the existence of irreducible complexity in all the details of organisms and their relationships. That is, the structures and members of living organisms are extremely complex and integrated so that they can only exist with the availability of their parts at one time. Otherwise, they will not perform their function. Thus, they are not amenable to the idea of gradual formation at all, even at the level of the smallest living unit.<br><br>
+    هذه هي نكتة الانتقاء الطبيعي الأعمى التي جاء بها داروين، وهي - إضافة إلى سخافتها لكل عقل سليم - أن الاكتشافات العلمية أثبتت استحالتها مع وجود التعقيد غير القابل للاختزال في كل تفاصيل الكائنات الحية وعلاقاتها. أي أن هياكل وأعضاء الكائنات الحية معقدة للغاية ومتكاملة بحيث لا يمكن أن توجد إلا مع توفر أجزائها في وقت واحد. وإلا فإنها لن تؤدي وظيفتها. وبالتالي، فهم غير قابلين لفكرة التكون التدريجي على الإطلاق، حتى على مستوى أصغر وحدة حية.<br><br>
 
-    Darwin did not see the cell under the microscope in his days except as a simple smear!<br><br>
+    ولم يرى داروين الخلية تحت المجهر في أيامه إلا كمسحة بسيطة!<br><br>
 
-    Natural selection as portrayed by Darwin is also a myth.<br><br>
+    الانتقاء الطبيعي كما صوره داروين هو أيضًا خرافة.<br><br>
 
-    Based on these baseless superstitions of reason, sense, and experience, Darwin built the most absurd and stupid idea in history. All that we see of judgment and mastery in this creation came by chance without intention and does not need knowledge or wisdom!<br><br>
+    واستنادا إلى هذه الخرافات التي لا أساس لها من العقل والحس والخبرة، بنى داروين الفكرة الأكثر سخافة وغباء في التاريخ. وهي أن كل ما نراه من حُكم وإتقان في هذا الخلق جاء بالصدفة دون نية ولا يحتاج إلى علم أو حكمة!<br><br>
 
-    After seeing the invalidity of this theory, you must trust that the universe cannot be created by chance and also trust that "there must be a God".<br><br>
-    <a target="_blank" href="https://www.youtube.com/watch?v=x0jw56ylJOE&list=PL56IcDjrf3YJr__TEOJ2UOv3jCzht1_yc&index=24">Learn More (evolution) [Video - En Subtitles].</a><br>
-    <a target="_blank" href="https://www.youtube.com/playlist?list=PL56IcDjrf3YJr__TEOJ2UOv3jCzht1_yc">Learn More [Playlist - En Subtitles] (Start from first video or video number 24 in Playlist to the end).</a>
-
+    وبعد رؤية بطلان هذه النظرية يجب أن تثق بأن الكون لا يمكن أن يكون وليد الصدفة وأيضاً أن تثق بأنه "لابد أن يكون هناك إله".<br><br>
+    <a target="_blank" href="https://www.youtube.com/watch?v=x0jw56ylJOE&list=PL56IcDjrf3YJr__TEOJ2UOv3jCzht1_yc&index=24">المزيد عن (خرافة التطور) [مقطع].</a><br>
+    <a target="_blank" href="https://www.youtube.com/playlist?list=PL56IcDjrf3YJr__TEOJ2UOv3jCzht1_yc">المزيد [السلسلة كاملة] (ابدأ من أول مقطع في السلسلة أو من المقطع رقم 24 إلى النهاية).</a>
 </div>
 
 <div class="part">
