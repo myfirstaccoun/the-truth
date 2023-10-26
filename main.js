@@ -146,59 +146,58 @@ let langsContent = [
 </div>
 
 <div class="part">
-    <h1>Part 4: Are You Really Know Islam?</h1>
-    Islam is a religion that commands you to worship Allah, the one God, with no partner and obey his prophet Mohammed - Peace be upon him -.<br>
-    To be a Muslim, you say the two testimonies:<br>
-    أشهد أن لا إله إلا الله وأشهد أن محمدا عبده ورسوله ('ashhad 'an la 'iilah 'iilaa allah wa'ashhad 'ana muhamadan eabduh warasuluhu).<br>
-    which means: "I testify that there is no god but Allah, and I testify that Mohammed is His Prophet and Messenger."<br><br>
+    <h1>الفقرة الرابعة: هل حقًّا تعرف الإسلام؟</h1>
+    الإسلام يدعو لعبادة الله الواحد الذي لا شريك له الذي ليس مع إله ويدعو لتصديق رسول الله ونبيه محمد - صلى الله عليه وسلم -.<br>
+    لتدخل الإسلام تنطق الشهادتين:<br>
+    أشهد أن لا إله إلا الله وأشهد أن محمدا عبده ورسوله<br><br>
 
-    <a target="_blank" href="https://www.islam-guide.com/ch3-8.htm">Learn More about Prophet Mohammed - peace be upon him - [article]</a><br>
-    <a target="_blank" href="https://www.youtube.com/watch?v=_JbKdKS9Yyg">Learn More about Prophet Mohammed - peace be upon him - [Video - En Subtitles]</a><br><br>
+    <a target="_blank" href="https://www.islam-guide.com/ch3-8.htm">المزيد عن الرسول - صلى الله عليه وسلم - [مقال]</a><br>
+    <a target="_blank" href="https://www.youtube.com/watch?v=_JbKdKS9Yyg">المزيد عن الرسول - صلى الله عليه وسلم - [مقطع]</a><br><br>
 
-    Islam is the religion that agrees with human nature. It's the religion that calls for worshipping the one God who is Allah.<br><br>
+    الإسلام هو الدين الذي يتفق مع الفطرة حيث يدعوك لعبادة إله واحد وهو الله.<br><br>
 
-    Allah is the God of all the universe. Allah is perfect for Him alone, and there is no similarity to Him, and no one is similar to Him. You must worship Him alone.<br><br>
+    الله خالق كل شيء, خالق الكون لا شريك له ولا شبيه له, والله كامل فليس فيه أي نقص أو عيب, ويجب أن تعبده وحده.<br><br>
 
-    Now let us know the pillars of Islam that make you Muslim:<br>
-    1. Two testimonies<br>
-    2. The five Prayers<br>
-    3. Paying Zakat<br>
-    4. Fasting in Ramadan<br>
-    5. Hajj<br><br>
+    دعونا نتعرف على أركان الإسلام والتي تجعلك مسلما:<br>
+    1. الشهادتين<br>
+    2. الصلوات الخمس<br>
+    3. إيتاء (دفع) الزكاة<br>
+    4. صوم رمضان<br>
+    5. الحج<br><br>
 
-    Fourth is Fasting in Ramadan. Ramadan is a Hijri Month when you must stop eating and drinking from Fajr to Maghreb and where there is a night called Night of Al-Qadr. Whoever wins it is better for him than a thousand months.<br>
+    رمضان شهر هجري يجب عليك فيه التوقف عن الأكل والشرب من الفجر إلى المغرب، حيث توجد ليلة تسمى ليلة القدر. فمن ظفر بها فهو خير له من ألف شهر.<br>
 
-    <h3>Aqida (Muslim believe)</h3>
-    The Muslim believes in Allah the Lord of the heavens and the earth. Master of everything in existence. The Lord of Ibrahim. Messengers and revelations have been sent to us from the time of our father Adam to the last of the prophets, Muhammad, peace and blessings be upon him. He came with the final revelation. The word “رب العالمين” means Lord of the Worlds. “All that is in the heavens and all that is on earth glorifies Allah. “And He is the Mighty, the Wise” 59:1<br><br>
+    <h3>العقيدة (إيمان/إعتقاد المسلم)</h3>
+    المسلم يعتقد أن الله مالك وخالق السماوات والأرض ومالك كل شيء, رب الرسل وهو الذي أرسل الرسل من أول سيدنا آدم أول البشر إلى خاتم الأنبياء والرسل سيدنا محمد - صلى الله عليه وسلم - لعبادة الله الواحد, ويسبّح (بعظم) لله ما في السماوات وما في الأرض.<br><br>
 
-    Even if people do not believe in Allah and worship someone else, that does not change the fact that they are His creation and that He is the one who can guide them to the straight path (Islam) or condemn them to disbelieve in Him. Revelation after showing them that this is the truth. This is the Muslim belief.<br><br>
+    إذا الناس لم يعبدوا الله فهذا لن يغير من الحقيقة وهي أن الله خالقهم وأنه هو من يرشدهم إلى الهدى والطريق الصحيح (الإسلام).<br><br>
 
     
     
-    <h3>Sharia (laws)</h3>
-    A Muslim does not use the “benign” Sharia law in Islamic countries. Rather, but use Sharia law. Sharia is the definition of the heavenly laws that Allah has commanded us to follow such as prayer, fasting, charity, good manners, wearing the hijab, and building good relationships with the people you live with, neighbors and the elderly, are all part of Sharia. Sharia also covers governance, politics, the judicial system, law enforcement, and many other aspects of life. Islam is the way of life and it covers all the necessary matters of life so that we can live and govern ourselves to the satisfaction of Allah.<br><br>
+    <h3>الشريعة (قوانين الإسلام)</h3>
+    الشريعة هي قوانين الله مثل الصلاة والصوم والصدقة وحسن الخلق وارتداء الحجاب وبناء علاقات طيبة مع الناس, فالإسلام منهج حياة وفيه القوانين التي تصلح الفرد والمحتمع وتقربهم من الله.<br><br>
     
-    in Islam you make the rules of Allah control you in your life as you mustn't do anything forbidden or taboo, and if you think it's not freedom, so for example if your son went to market and want to eat all chocolates in market you will stop him right? then do you want him without freedom, or you know that if he do that he will hurt himself?<br><br>
+    يجب أن تتبع أحكام الله وتجتنب الأشياء المحرمة، وإذا كنت تعتقد أن ذلك ليس حرية، فمثلا إذا ذهب ابنك إلى السوق وأراد أن يأكل كل الحلويات الموجودة في السوق سوف تمنعه أليس كذلك؟ فهل تريده بلا حرية أم تعلم أنه إذا فعل ذلك سيؤذي نفسه؟<br><br>
 
-    Allah created the universe and He know which things hurt us, and Allah created the world as a place of affliction and fatigue, not a place of reward.<br><br>
+    خلق الله الكون وهو يعلم ما يؤذينا، وخلق الله الدنيا مكانا للبلاء والتعب، وليس مكانا للمكافأة أما مكان المكافأة فهو الآخرة (بعد الموت).<br><br>
 
-    <h3>Pray</h3>
-    Prayers change for each country due to seasonal changes, but if you live in a region like the Middle East, North Africa, and East Africa, daily prayers are set at specific times and never change. It's more about the time of day. For example: Fajr prayer before sunrise, around the time of dawn. It is not permissible to pray it as soon as the sun rises, then there is noon, afternoon, after sunset, then evening. If the time of sunrise and sunset changes, the time of prayer changes.<br><br>
+    <h3>الصلاة</h3>
+    تتغير مواعيد الصلوات لكل بلد بسبب التغيرات الموسمية، يتعلق الأمر أكثر بالوقت من اليوم. على سبيل المثال: صلاة الفجر قبل شروق الشمس، في وقت قريب من الفجر. ولا تجوز صلاتها حال طلوع الشمس، ثم الظهر، ثم العصر، ثم المغرب، ثم المساء. فإذا تغير وقت شروق الشمس وغروبها تغير وقت الصلاة.<br><br>
 
-    <h3>Qur'an</h3>
-    In Islam holy book is Quran which is words of Allah, The Qur’an was revealed in the Arabic language in an Arab country when the Arabs were most eloquent, challenging all Arabs in its eloquence and its beautiful words, And So far, nothing like The Qur'an has been written in its eloquence and Surah is a part from Qur'an.<br><br>
+    <h3>القرآن الكريم</h3>
+    القرآن هو كلام الله، نزل القرآن باللغة العربية في بلد عربي عندما كان العرب أكثر فصاحة، متحديا كل العرب في بلاغته وجمال كلماته، وحتى الآن لا شيء مثله. (السورة جزء من القرآن).<br><br>
     
-    <a target="_blank" href="https://www.youtube.com/watch?v=TGuZMLhyRXg">Learn More (Someone made Surah like Qur'an?!)</a><br><br>
+    <a target="_blank" href="https://www.youtube.com/watch?v=TGuZMLhyRXg">المزيد (هناك شخص كتب مثل القرآن؟!) [مقطع باللغة الإنجليزية]</a><br><br>
 
-    Quran is not misrepresented and you can make sure of it by search about oldest Quran, it no different between it and latest Quran (except the font), and what increases your certainty is .. The Qur'an is an audio book before it is a written book and there is such a thing as permission to read the Holy Quran which is a continuous chain from the person who is proficient in reading the Qur’an to the Prophet Mohammed - Peace be upon him -<br><br>
+    القرآن ليس محرفاً ويمكنك التأكد منه من خلال البحث عن أقدم القرآن، فلا فرق بينه وبين أحدث القرآن (إلا الخط)، وما يزيدك يقيناً هو .. القرآن كتاب صوتي قبل أن يكون كتاب مكتوب وهناك ما يسمى الإذن بقراءة القرآن الكريم وهو سلسلة متصلة من الذي يتقن قراءة القرآن إلى النبي محمد - صلى الله عليه وسلم -.<br><br>
 
-    The Qur'an can be translated and translated into any other language in the world for people to understand what they read but Allah sent down the revelation in the Arabic language so the only Arabic language can be considered the “revelation”. Others will simply be a translation of the Qur'an. 80% of Muslims are non-Arabs but are still able to recite and understand the Qur’an and recite the Qur’an in prayer daily. However, if you want to get the full experience, you have to learn Arabic because most Islamic sources are in Arabic.<br><br>
+    يمكن ترجمة القرآن إلى أي لغة أخرى في العالم ليفهم الناس ما يقرؤونه ولكن الله أنزل الوحي باللغة العربية لذلك يمكن اعتبار اللغة العربية لغة "الوحي" الوحيدة. واللغات الأخرى مجرد ترجمة للقرآن. 80% من المسلمين هم من غير العرب ولكنهم ما زالوا قادرين على تلاوة القرآن وفهمه وتلاوة القرآن في الصلاة يوميا. ومع ذلك، إذا كنت ترغب في الحصول على الخبرة الكاملة، عليك أن تتعلم اللغة العربية لأن معظم المصادر الإسلامية باللغة العربية.<br><br>
 
-    <a target="_blank" href="https://www.youtube.com/watch?v=mJyNYxPEiMw">Learn Arabic and Qur'an (Roadmap Video)</a><br>
-    <a target="_blank" href="https://arabic101.org/wp-content/uploads/woocommerce_uploads/2023/03/quran-quest_2.pdf">Learn Arabic and Qur'an (Roadmap Pdf)</a><br>
+    <a target="_blank" href="https://www.youtube.com/watch?v=mJyNYxPEiMw">تعلم القرآن (مقطع خريطة طريق)</a><br>
+    <a target="_blank" href="https://arabic101.org/wp-content/uploads/woocommerce_uploads/2023/03/quran-quest_2.pdf">تعلم القرآن (خريطة طريق Pdf)</a><br>
 
-    <h3>Zakat</h3>
-    There is no tax imposed by the government at all in Islam. There should be no taxes because it is an un-Islamic concept. If a non-Muslim wishes to live under an Islamic government, he or she pays the jizya, which is a tax for non-Muslims to give them safety and security, as well as access to the same services and privileges as Muslims. As for the Muslim, he does something obligatory in Islam called zakat. Muslims are required to pay 2.5% of our wealth to the poor annually, while the jizya is much less than zakat. This makes society better and compensates for the lack of resources and privileges between the poor and the rich while lifting each other up. It is not permissible for a Muslim to take zakat from other Muslims unless he is in need of it. Therefore, there are times in history when Islamic rulers did not have poor people to feed and the population complained about who was giving alms.<br>
+    <h3>الزكاة</h3>
+    لا توجد ضريبة تفرضها الحكومة على الإطلاق في الإسلام. ولا ينبغي أن تكون هناك ضرائب لأنها مفهوم غير إسلامي. إذا رغب غير المسلم في العيش في ظل حكومة إسلامية، فإنه يدفع الجزية، وهي ضريبة مفروضة على غير المسلمين لمنحهم الأمان والأمان، فضلاً عن الوصول إلى نفس الخدمات والامتيازات التي يتمتع بها المسلمون. أما المسلم فيؤدي شيئا من واجبات الإسلام يسمى الزكاة. يُطلب من المسلمين دفع 2.5% من ثروتنا للفقراء سنويًا، في حين أن الجزية أقل بكثير من الزكاة. وهذا يجعل المجتمع أفضل ويعوض نقص الموارد والامتيازات بين الفقراء والأغنياء بينما يرفع كل منهما الآخر. ولا يجوز لمسلم أن يأخذ الزكاة من غيره من المسلمين إلا إذا كان محتاجاً إليها. لذلك، هناك أوقات في التاريخ لم يكن فيها الحكام الإسلاميون لديهم فقراء لإطعامهم واشتكى السكان من الذي يعطي الصدقات.<br>
 </div>
 
 <div class="part">
